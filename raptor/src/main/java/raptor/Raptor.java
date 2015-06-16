@@ -39,7 +39,6 @@ import raptor.pref.PreferenceKeys;
 import raptor.pref.RaptorPreferenceStore;
 import raptor.service.ActionScriptService;
 import raptor.service.AliasService;
-import raptor.service.CheckUpdates;
 import raptor.service.ChessBoardCacheService;
 import raptor.service.ConnectorService;
 import raptor.service.DictionaryService;
@@ -58,7 +57,6 @@ import raptor.swt.RaptorCursorRegistry;
 import raptor.swt.RaptorImageRegistry;
 import raptor.util.BrowserUtils;
 import raptor.util.FileUtils;
-import raptor.util.OSUtils;
 import raptor.util.RaptorLogger;
 import raptor.util.RaptorRunnable;
 
